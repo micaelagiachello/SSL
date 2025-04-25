@@ -1,5 +1,8 @@
-gcc -std=c11 hola.c -o hola
-./hola
-./hola > output.txt
-cat output.txt
+En la terminal:
+- gcc -std=c11 hola.c -o hola
+- ./hola
+- ./hola > output.txt
+- cat output.txt
+
+En el output.txt:
 Hola Mundo!
