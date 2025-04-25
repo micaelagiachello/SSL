@@ -1,2 +1,2 @@
-Compilador seleccionado:
--Visual Studio Code
+# Compilador seleccionado:
+- Visual Studio Code
